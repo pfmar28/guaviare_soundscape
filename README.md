@@ -1,2 +1,9 @@
 # guaviare_soundscape
-El objetivo de este repositorio es 
+
+El Guaviare, lugar del corredor del Jaguar, es una de las regiones más afectadas por deforestación en Colombia. Debido a esta problemática que afecta al territorio de este gran felino, surge el interés de monitorear los diferentes tipos de ecosistemas por lo que deja huella el Jaguar en esta zona de la amazonía colombiana através del registro acústico. El objetivo de este repositorio es automatizar el análisis de las cientos de horas de grabaciones en relación a especie focales que co-habitan el Corredor del Jaguar en el departamento del Guaviare, Colombia. 
+
+Los scripts presentados están basados en el trabajo desarrollado por los siguientes autores y colaboradores: 
+
+- Ulloa, J. S., Haupert, S., Latorre, J. F., Aubin, T., & Sueur, J. (2021). scikit‐maad: An open‐source and modular toolbox for quantitative soundscape analysis in Python. Methods in Ecology and Evolution, 2041-210X.13711. https://doi.org/10.1111/2041-210X.13711.
+- Ulloa, S. (2021). Putumayo soundmark detection. https://github.com/juansulloa/putumayo_soundmarks.
+- Latorre, G. (2020). MAAD Workflow. https://github.com/jflatorreg/maad-workflow#author.  
