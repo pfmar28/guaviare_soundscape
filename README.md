@@ -5,5 +5,5 @@ El Guaviare, lugar del corredor del Jaguar, es una de las regiones más afectada
 Los scripts presentados están basados en el trabajo desarrollado por los siguientes autores y colaboradores: 
 
 - Ulloa, J. S., Haupert, S., Latorre, J. F., Aubin, T., & Sueur, J. (2021). scikit‐maad: An open‐source and modular toolbox for quantitative soundscape analysis in Python. Methods in Ecology and Evolution, 2041-210X.13711. https://doi.org/10.1111/2041-210X.13711.
-- Ulloa, S. (2021). Putumayo soundmark detection. https://github.com/juansulloa/putumayo_soundmarks.
+- Ulloa, J. S. (2021). Putumayo soundmark detection. https://github.com/juansulloa/putumayo_soundmarks.
 - Latorre, G. (2020). MAAD Workflow. https://github.com/jflatorreg/maad-workflow#author.  
